@@ -1,0 +1,17 @@
+*{
+    font-family: Arial;
+}
+#formELementos{
+display: flex;
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.serie{
+margin: 5px;
+padding: 5px;
+display: flex;
+justify-content: center;
+}
